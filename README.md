@@ -1,7 +1,8 @@
 # Photography App UI Concept
 
 ## Preview
-<img src="https://user-images.githubusercontent.com/34890717/234699505-a5f7090b-3aac-46db-bf18-4b7f56005ef4.png width="100">
+<img src="https://user-images.githubusercontent.com/34890717/234699505-a5f7090b-3aac-46db-bf18-4b7f56005ef4.png" width="100">
+                                                                                                                           [[https://user-images.githubusercontent.com/34890717/234699505-a5f7090b-3aac-46db-bf18-4b7f56005ef4.png |width=100px]]
 
 
 #Original Design :
