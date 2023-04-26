@@ -1,6 +1,12 @@
-# photographyapp
+# Photography App UI Concept
 
-A new Flutter project.
+## Preview
+![Screenshot_1678454416](https://user-images.githubusercontent.com/34890717/234699505-a5f7090b-3aac-46db-bf18-4b7f56005ef4.png)
+
+
+#Original Design :
+- Figma : (https://www.figma.com/community/file/1211911664657401299/Mobile-App-UI-Design)
+
 
 ## Getting Started
 
