@@ -5,7 +5,7 @@
 
 
 #Original Design :
-- Figma : (https://www.figma.com/community/file/1211911664657401299/Mobile-App-UI-Design)
+- Figma : (https://www.figma.com/community/file/1211911664657401299/Mobile-App-UI-Design | width=100)
 
 
 ## Getting Started
